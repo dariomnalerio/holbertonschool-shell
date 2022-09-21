@@ -5,3 +5,5 @@
 2-groups: Prints all the groups the current user is part of
 
 3-new_owner: Script that changes the owner of the file "hello" to the user "betty"
+
+4-empty: Scrip that creats an empty file called "hello"
