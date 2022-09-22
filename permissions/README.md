@@ -1,4 +1,4 @@
-0-iam_betty: Switches current user to "betty"
+-iam_betty: Switches current user to "betty"
 
 1-who_am_i: Prints the effective username of the current user
 
@@ -20,4 +20,4 @@ Owner: no permission at all
 Group: no permission at all
 Other users: all the permissions
 
-
+9-John_Doe: Script that sets the permission to the file "hello" as follows: -rwxr-x-wx
