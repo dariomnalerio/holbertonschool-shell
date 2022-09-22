@@ -21,3 +21,8 @@ Group: no permission at all
 Other users: all the permissions
 
 9-John_Doe: Script that sets the permission to the file "hello" as follows: -rwxr-x-wx
+
+10-mirror_permissions: Script that sets the mode of the file hello the same as olleh’s mode.
+
+The file hello will be in the working directory
+The file olleh will be in the working directory
