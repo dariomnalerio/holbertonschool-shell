@@ -1,4 +1,4 @@
--iam_betty: Switches current user to "betty"
+0-iam_betty: Switches current user to "betty"
 
 1-who_am_i: Prints the effective username of the current user
 
@@ -27,4 +27,6 @@ Other users: all the permissions
 The file hello will be in the working directory
 The file olleh will be in the working directory
 
-11-directories_permissions: Script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+11-directories_permissions: Script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+
+12-directory_permissions: Script that creates a directory called my_dir with permissions 751 in the working directory
