@@ -47,3 +47,10 @@
 23-empty_casks: Finds all empty files and directories in the current directory and all sub-directories.
 
 24-gifs: Script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+
+25-acrostic: Script that decodes acrostics that use the first letter of each line.
+
+
+
+
+
